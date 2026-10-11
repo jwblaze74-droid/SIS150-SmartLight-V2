@@ -31,3 +31,46 @@ The demo will create `smartlight_settings.json` in the current directory. It use
 ## Optional next step
 
 A real-world scheduler would require a running event loop, OS scheduling, or another approved service, plus additional security and recovery tests.
+
+## SmartLight Version 2.0 Validation Record
+
+**Validation Date:** October 11, 2026
+
+**Programming Language:** Python
+
+**Testing Framework:** unittest
+
+### Test Results
+
+- Multiple light objects: PASS
+- Scheduled activation: PASS
+- Schedule timing validation: PASS
+- Duplicate name validation: PASS
+- Invalid brightness validation: PASS
+- JSON storage and restoration: PASS
+- Unknown light validation: PASS
+- Scheduled execution validation: PASS
+
+### Automated Testing
+
+Tests Executed: 8
+
+Tests Passed: 8
+
+Tests Failed: 0
+
+Overall Result: PASSED
+
+### Validation Summary
+
+SmartLight Version 2.0 successfully executed
+in Python using Windows PowerShell.
+
+The program demonstrated multiple light
+management, simulated scheduled activation,
+and JSON settings storage.
+
+All eight automated unit tests passed.
+
+The application remains a software simulation
+and does not control physical lighting systems.
