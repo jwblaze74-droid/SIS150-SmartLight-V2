@@ -30,4 +30,4 @@ The demo will create `smartlight_settings.json` in the current directory. It use
 
 ## Optional next step
 
-If the course assignment only requires the introductory class, keep the original Version 1.0 repository as-is. If enhancements are requested later, review them with your instructor before committing changes. A real-world scheduler would require a running event loop, OS scheduling, or another approved service, plus additional security and recovery tests.
+A real-world scheduler would require a running event loop, OS scheduling, or another approved service, plus additional security and recovery tests.
